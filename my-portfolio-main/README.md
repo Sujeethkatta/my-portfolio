@@ -60,9 +60,11 @@ You can view or download my resume directly from the portfolio website.
 
 ## 📬 Contact
 
-📧 Email: sujeethkatta326@gmail.com  
-💻 GitHub: https://github.com/Sujeethkatta  
-🔗 LinkedIn: https://linkedin.com/in/sujeethkatta  
+📧 Email: sujeethkatta@gmail.com  
+💻 GitHub: https://github.com/Sujeethkatta
+🔗 LinkedIn: www.linkedin.com/in/katta-sujeeth
+
+  
 
 ---
 
